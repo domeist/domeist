@@ -1,16 +1,8 @@
 # Dominykas Meistas
 
-Backend engineer in Glasgow, currently at Barclays, where I work on the
-integration layer behind a financial advice platform. I build event-driven
-services on AWS — mostly Java, Spring Boot and Micronaut.
-
-**Tech**
-
-- **Core** — Java, Spring Boot, Micronaut
-- **AWS** — Lambda, DynamoDB, API Gateway, SQS, ECS Fargate, MSK, CloudFormation
-- **Messaging & integration** — Kafka, IBM MQ, REST, OpenAPI, MapStruct
-- **Testing & delivery** — JUnit, Mockito, WireMock, Docker, GitLab CI, Jenkins
-- **AI tooling** — Claude Code: custom agents, skills, multi-agent pipelines
+Backend engineer in Glasgow, currently at Barclays. I build services and APIs on
+AWS — mostly Java, Spring Boot and Micronaut, with Kafka where things are
+event-driven.
 
 **Here**
 
