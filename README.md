@@ -1,8 +1,7 @@
 # Dominykas Meistas
 
 Backend engineer in Glasgow, currently at Barclays. I build services and APIs on
-AWS — mostly Java, Spring Boot and Micronaut, with Kafka where things are
-event-driven.
+AWS — mostly Java, Spring Boot and Micronaut.
 
 **Here**
 
