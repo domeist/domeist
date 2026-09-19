@@ -1,19 +1,16 @@
 # Dominykas Meistas
 
-Backend engineer in Glasgow. I build event-driven services on AWS — mostly Java,
-Spring Boot and Micronaut — and spend a lot of time on the unglamorous parts:
-integration boundaries, schema versioning, replayable failures, and making the
-next service cheaper to build than the last.
+Backend engineer in Glasgow, currently at Barclays, where I work on the
+integration layer behind a financial advice platform. I build event-driven
+services on AWS — mostly Java, Spring Boot and Micronaut.
 
-Currently at Barclays, working on the integration layer behind a financial
-advice platform.
+**Tech**
 
-**What I think about**
-
-- Anti-corruption layers, and keeping internal models independent of a provider's
-- Eventual consistency, and designing for events that arrive before the state does
-- Shared libraries and tooling that other teams actually adopt
-- Agentic development workflows, and where the human review gate belongs
+- **Core** — Java, Spring Boot, Micronaut
+- **AWS** — Lambda, DynamoDB, API Gateway, SQS, ECS Fargate, MSK, CloudFormation
+- **Messaging & integration** — Kafka, IBM MQ, REST, OpenAPI, MapStruct
+- **Testing & delivery** — JUnit, Mockito, WireMock, Docker, GitLab CI, Jenkins
+- **AI tooling** — Claude Code: custom agents, skills, multi-agent pipelines
 
 **Here**
 
